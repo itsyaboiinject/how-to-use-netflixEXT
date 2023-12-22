@@ -1,6 +1,6 @@
 # NetflixEXT Tutorial
 ### 1. First download the netflixEXT (which is in this github)
-### 2. Join a teleporter game (https://www.roblox.com/games/15705322803/TPr)
+### 2. Join a teleporter game | https://www.roblox.com/games/15705322803/TPr
 ### 3. Join the game you desire. (if the game is not on the list get its id and paste it in the id box)
 ### 4. Make sure the game has a tool.
 ### 5. Soon after load build.bat
